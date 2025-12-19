@@ -9,6 +9,9 @@ from pyspark.sql import Row, DataFrame
 from pyspark.sql.types import StructType, StructField, StringType, IntegerType, DoubleType, DateType
 from pyspark.sql.window import Window
 import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
 import numpy as np
 import sklearn as sk
 
