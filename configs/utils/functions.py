@@ -6,6 +6,8 @@ from databricks.sdk.runtime import *
 import pyspark as ps
 import pyspark.sql.functions as F
 from pyspark.sql import Row, DataFrame
+from pyspark.sql.types import StructType, StructField, StringType, IntegerType, DoubleType, DateType
+from pyspark.sql.window import Window
 import pandas as pd
 import numpy as np
 import sklearn as sk
