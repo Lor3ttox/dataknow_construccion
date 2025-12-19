@@ -114,5 +114,3 @@ Se realizó un análisis para identificar qué equipo será más caro en términ
 - **Nombre:** Juan Pablo Guerra Osorio
 
 ---
-
-© 2025. Empresa X. Todos los derechos reservados.
