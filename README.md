@@ -18,19 +18,12 @@ El desarrollo de este análisis comprende los siguientes pasos:
 #### **Equipos Construidos**
 1. **Equipo 1:**
    - Composición: 20% de **X** y 80% de **Y**.
-   - Fórmula utilizada:
-     \[
-     \text{Costo del Equipo 1} = (\text{Precio de X} \times 0.2) + (\text{Precio de Y} \times 0.8)
-     \]
 
 2. **Equipo 2:**
    - Composición: 33.3% de **X**, 33.3% de **Y**, y 33.3% de **Z**.
    - Fórmula utilizada:
-     \[
-     \text{Costo del Equipo 2} = (\text{Precio de X} \times 0.3333) + (\text{Precio de Y} \times 0.3333) + (\text{Precio de Z} \times 0.3333)
-     \]
 
-Todos los cálculos se realizaron sobre **uniones internas (`INNER JOIN`)**, asegurando que únicamente se consideraran fechas comunes entre las materias primas.
+Todos los cálculos se realizaron sobre **uniones internas (`INNER JOIN`)**, únicamente se consideraran fechas comunes entre las materias primas.
 
 ---
 
